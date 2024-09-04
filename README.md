@@ -1,7 +1,7 @@
 # Augustinuscollege informatica
 
 Dit is een *repository* om te werken in Github Codespaces of [GitPod](https://gitpod.io).
-Rechstreeks bekijken van deze versie kan via [CSG_HTML_CSS](https://vnr-csg.github.io/CSG_HTML_CSS/).
+Rechtstreeks bekijken van deze versie kan via [CSG_HTML_CSS](https://vnr-csg.github.io/CSG_HTML_CSS/).
 Voor de *status* van GitPod kijk je op [GitPodStatus](https://www.gitpodstatus.com).
 
 ## GEBRUIK met Github Pages
