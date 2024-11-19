@@ -1,0 +1,16 @@
+body {
+    color: rgb(0, 60, 255);
+    font-size: 2.5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',Geneva, Verdana, sans-serif;
+    font-variant: small-caps;
+    background: rgb(171, 195, 247);
+    margin: 200px;
+}
+
+[href] {
+    color: rgb(68, 68, 241)
+}
+
+a:hover {
+    color: rgb(129, 0, 250)
+}
